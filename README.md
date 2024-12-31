@@ -31,10 +31,10 @@ This project is a **spam detection system** built with Python. It uses **Natural
 Ce projet est un **système de détection de spam** développé en Python. Il utilise des techniques de **Traitement Automatique du Langage Naturel [NLP](https://fr.wikipedia.org/wiki/Traitement_automatique_du_langage_naturel)** et de **[Machine Learning](https://fr.wikipedia.org/wiki/Apprentissage_automatique)** pour savoir si un message est un **spam** ou un message normal (**ham**).
 
 ### Nuage de mots - Spam
-![Nuage de mots Spam](scam-detector/images/scam.png "Nuage de mots pour les spams")
+![Nuage de mots Spam](images/spam.png "Nuage de mots pour les spams")
 
 ### Nuage de mots - Ham
-![Nuage de mots Ham](scam-detector/images/ham.png "Nuage de mots pour les messages normaux")
+![Nuage de mots Ham](images/ham.png "Nuage de mots pour les messages normaux")
 
 ---
 
