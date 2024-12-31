@@ -4,7 +4,7 @@
 
 ## 📝 Overview
 
-This project is a **spam detection system** built with Python. It uses **Natural Language Processing (NLP)** and **Machine Learning** techniques to classify text messages as either **spam** or **ham** (non-spam).
+This project is a **spam detection system** built with Python. It uses **Natural Language Processing [(NLP)](https://en.wikipedia.org/wiki/Natural_language_processing)** and **[Machine Learning](https://en.wikipedia.org/wiki/Machine_learning)** techniques to classify text messages as either **spam** or **ham** (non-spam).
 
 ---
 
@@ -17,7 +17,7 @@ This project is a **spam detection system** built with Python. It uses **Natural
   - Creates word clouds to show the most common words in spam and normal messages.
 
 - **Spam Classification**:  
-  - Converts text into numbers using **TF-IDF Vectorization**.  
+  - Converts text into numbers using **[TF-IDF](https://en.wikipedia.org/wiki/Tf%E2%80%93idf) Vectorization**.  
   - Trains a **Naive Bayes Multinomial** model to classify messages accurately.
 
 ---
@@ -28,7 +28,7 @@ This project is a **spam detection system** built with Python. It uses **Natural
 
 ## 📝 Aperçu
 
-Ce projet est un **système de détection de spam** développé en Python. Il utilise des techniques de **Traitement Automatique du Langage Naturel (NLP)** et de **Machine Learning** pour savoir si un message est un **spam** ou un message normal (**ham**).
+Ce projet est un **système de détection de spam** développé en Python. Il utilise des techniques de **Traitement Automatique du Langage Naturel [NLP](https://fr.wikipedia.org/wiki/Traitement_automatique_du_langage_naturel)** et de **[Machine Learning](https://fr.wikipedia.org/wiki/Apprentissage_automatique)** pour savoir si un message est un **spam** ou un message normal (**ham**).
 
 ### Nuage de mots - Spam
 ![Nuage de mots Spam](scam-detector/images/scam.png "Nuage de mots pour les spams")
@@ -47,5 +47,5 @@ Ce projet est un **système de détection de spam** développé en Python. Il ut
   - Crée des nuages de mots pour afficher les mots les plus utilisés dans les spams et les messages normaux.
 
 - **Classification des spams** :  
-  - Transforme les textes en chiffres avec la **vectorisation TF-IDF**.  
+  - Transforme les textes en chiffres avec la **vectorisation [TF-IDF](https://fr.wikipedia.org/wiki/TF-IDF)**.  
   - Utilise un modèle **Naive Bayes Multinomial** pour prédire si un message est un spam ou non.
