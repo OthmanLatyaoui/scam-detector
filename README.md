@@ -20,6 +20,12 @@ This project is a **spam detection system** built with Python. It uses **Natural
   - Converts text into numbers using **[TF-IDF](https://en.wikipedia.org/wiki/Tf%E2%80%93idf) Vectorization**.  
   - Trains a **Naive Bayes Multinomial** model to classify messages accurately.
 
+### Word Cloud - Spam
+![Word Cloud Spam](images/spam.png "Word cloud for spam messages")
+
+### Word Cloud - Ham
+![Word Cloud Ham](images/ham.png "Word cloud for non-spam messages")
+
 ---
 
 # Détecteur de Spam - Projet Machine Learning
@@ -29,12 +35,6 @@ This project is a **spam detection system** built with Python. It uses **Natural
 ## 📝 Aperçu
 
 Ce projet est un **système de détection de spam** développé en Python. Il utilise des techniques de **Traitement Automatique du Langage Naturel [NLP](https://fr.wikipedia.org/wiki/Traitement_automatique_du_langage_naturel)** et de **[Machine Learning](https://fr.wikipedia.org/wiki/Apprentissage_automatique)** pour savoir si un message est un **spam** ou un message normal (**ham**).
-
-### Nuage de mots - Spam
-![Nuage de mots Spam](images/spam.png "Nuage de mots pour les spams")
-
-### Nuage de mots - Ham
-![Nuage de mots Ham](images/ham.png "Nuage de mots pour les messages normaux")
 
 ---
 
